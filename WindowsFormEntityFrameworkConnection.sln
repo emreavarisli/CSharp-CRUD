@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormEntityFrameworkConnection", "WindowsFormEntityFrameworkConnection\WindowsFormEntityFrameworkConnection.csproj", "{CA54F967-032D-4BBE-A0A7-F2E20FE5052C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA54F967-032D-4BBE-A0A7-F2E20FE5052C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA54F967-032D-4BBE-A0A7-F2E20FE5052C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA54F967-032D-4BBE-A0A7-F2E20FE5052C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA54F967-032D-4BBE-A0A7-F2E20FE5052C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50F55D05-DF04-465C-8F29-211CC2408D24}
+	EndGlobalSection
+EndGlobal
